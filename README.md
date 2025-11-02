@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RamachandraBharadwaj">
+  <a href="https://github.com/RamachandraBhardwaj">
     <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views" />
   </a>
 </p>
